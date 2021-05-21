@@ -1,0 +1,19 @@
+{
+  "name": "Halo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "conf": "^10.0.1",
+    "discord.js": "^12.5.3",
+    "events": "^3.3.0",
+    "discord.js-commando": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

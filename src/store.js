@@ -1,0 +1,1 @@
+global.store = new (require("conf"))({ configName: "storage" })
